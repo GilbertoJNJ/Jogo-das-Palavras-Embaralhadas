@@ -3,7 +3,7 @@ Proposta de projeto do curso de Orientação a Objetos com Java do Instituto Tec
 
 O projeto contém as seguintes características:
 
--Principal: Instancía um objeto de FrabricaMecanica para iniciar o jogo;
+-Principal: Instancía um objeto de FrabricaMecanicaDoJogo para iniciar o jogo;
 
 -Fábrica de Mecânica: Instancía de forma randômica as implementações da interface MecanicaDoJogo;
 
