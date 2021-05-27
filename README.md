@@ -12,6 +12,7 @@ O projeto contém as seguintes características:
 -Banco de palavras: Salva em uma list as palavras de um arquivo de texto;
 
 As implementações de MecanicaDoJogo são os modos de jogo e suas regras, no caso Morte Súbita e Três Vidas. Estas também possui o método para instânciar um objeto de FabricaDeEmbaralhadores.
+
 As implementações de Embaralhadores são as formas de embaralhar uma palavra, no caso aleatório e par-ímpar(separa os caracteres pares e ímpares de uma palavra), são responsáveis por retirar uma palavra do banco de palavras.
 
 A idéia de utilizar interfaces é permitir, nas próximas versões, criar vários modos de jogo e várias formas de embaralhar uma palavra, podendo tornar o jogo mais dinâmico.
